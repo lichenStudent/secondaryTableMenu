@@ -29,7 +29,7 @@
     _arr2 = [NSArray arrayWithObjects:@"1",@"2",@"3",@"4",@"5", nil];
     _arr3 = [NSArray arrayWithObjects:@"三",@"2",@"3", nil];
     _arr4 = [NSArray arrayWithObjects:@"1",@"人才",@"3", nil];
-    _arr5 = [NSArray arrayWithObjects:@"1",@"2",@"金庸", nil];
+    _arr5 = [NSArray arrayWithObjects:@"1",@"人才",@"金庸", nil];
     _arr  = [NSArray arrayWithObjects:_arr1,_arr2,_arr3,_arr4,_arr5, nil];
     
     self.view.backgroundColor = [UIColor whiteColor];
